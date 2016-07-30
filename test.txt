@@ -8,6 +8,7 @@ echo "slidemarv changes";
 echo "addbot did some changes";
 echo "adding some blahblah";
 echo "last commit of addbot";
+echo "last change by slidemarv";
 
 ?>
 
