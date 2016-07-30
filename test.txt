@@ -5,6 +5,7 @@ echo "changes";
 echo "new changes";
 echo "another new change";
 echo "slidemarv changes";
+echo "addbot did some changes";
 
 ?>
 
